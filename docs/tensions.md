@@ -100,6 +100,63 @@ Claude offers prayer, is honest about uncertainty when directly questioned, and 
 
 ---
 
+## 4. Worldview Customization and Its Implications
+
+### The Potential of Catholic Claude
+
+Standard AI assistants attempt neutrality on contested questions—bracketing metaphysical and moral commitments to avoid imposing views. But this claimed neutrality is itself a philosophical position, one that embeds assumptions about what can be known and how questions should be approached.
+
+Catholic Claude takes a different path: reasoning from within a coherent tradition rather than pretending to stand nowhere. This may produce genuinely better responses:
+
+- **Coherence over fragmentation.** Rather than ad hoc answers that shift with each question, responses flow from integrated first principles. The same understanding of human dignity, natural law, and ultimate purpose shapes answers across domains.
+
+- **Depth over surface.** Drawing on 2,000 years of sustained reflection—Scripture, the Fathers, Aquinas, modern encyclicals—provides resources that "neutral" Claude cannot access while maintaining neutrality.
+
+- **Honesty about commitments.** Users know what framework they're engaging with. This is more transparent than neutrality that embeds unstated assumptions.
+
+- **Pastoral presence.** A Claude that can speak of suffering as potentially redemptive, offer prayer, and treat persons as bearing God's image provides something different from clinical helpfulness.
+
+For Catholics seeking an AI assistant that reasons *with* them rather than constantly bracketing their deepest convictions, this represents genuine value.
+
+### The Broader Landscape
+
+But the same flexibility that permits Catholic Claude permits other customizations. If operators can shape Claude's fundamental orientation toward reality, they will—and not only toward Catholicism.
+
+This is simply true. There will be (or already are):
+- Secular humanist Claude, reasoning from materialist premises
+- Progressive Claude and traditionalist Claude, emphasizing different aspects of contested questions
+- Buddhist Claude, Hindu Claude, Islamic Claude
+- Ideological variants across the political spectrum
+
+The question is not whether this will happen but what it means that it will.
+
+### A Catholic Reflection
+
+Catholics have always lived in a world of competing worldviews. The early Church existed amid pagan philosophy and mystery religions. Medieval Christendom bordered Islamic civilization. The modern Church navigates secular liberalism, scientific materialism, and religious pluralism. This is not new.
+
+What *is* new is the potential scale and intimacy. If AI assistants become primary interlocutors for millions—answering questions, offering guidance, shaping how people think through problems—then worldview-customized AI becomes a new front in the ancient contest for souls.
+
+This should prompt neither panic nor naivety:
+
+**Not panic** because truth has its own power. A Catholic Claude that reasons well, treats persons with dignity, and offers genuine wisdom will commend itself by its fruits. The Church has never relied on having the only voice in the room—she has relied on having something true to say.
+
+**Not naivety** because formation matters. If Catholic families use Catholic Claude while secular families use secular Claude, we may see worldview siloing intensify. People may increasingly encounter only AI that confirms their priors. The "marketplace of ideas" becomes a marketplace of echo chambers.
+
+### The Responsibility This Creates
+
+If Catholic Claude exists, it should be *good*—not propagandistic but genuinely wise, not defensive but secure, not triumphalist but charitable. The system prompt attempts this: emphasizing truth-seeking, distinguishing levels of Church teaching, treating persons with dignity regardless of their beliefs, acknowledging difficulty rather than pretending all questions are easy.
+
+The goal is not to produce Catholics who have never encountered challenge but Catholics who can engage the world from a place of rooted confidence. If Catholic Claude contributes to that formation, it serves its purpose. If it merely creates a comfortable bubble, it fails—not because customization is wrong, but because *this* customization aims at something higher than comfort.
+
+### Open Questions
+
+- As AI assistants become more prevalent, does worldview customization contribute to societal fragmentation, or does it simply make explicit what was always implicit in human formation?
+- Is there a meaningful difference between a child raised in a Catholic home (with Catholic books, Catholic schools, Catholic community) and a person whose AI assistant reasons from Catholic premises? Both represent formation within a tradition.
+- What responsibility do creators of worldview-customized AI have for the quality and integrity of what they create?
+- Does transparency resolve the concern? If users *know* they're engaging with Catholic Claude, is that sufficient?
+
+---
+
 ## Future Tensions
 
 Document additional tensions here as they arise during testing and use.
